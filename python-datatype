@@ -7,6 +7,11 @@
 # 不转义
 r''
 
+>>> print(r'''hello,\n
+... world''')
+hello,\n
+world
+
 # 多行
 '''...'''
 
