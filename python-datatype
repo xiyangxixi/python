@@ -1,0 +1,18 @@
+# python的数据类型 整数  浮点数 字符串
+# 一些特定的用法
+
+# 转义
+\进行转义
+
+# 不转义
+r''
+
+# 多行
+'''...'''
+
+>>> print('''hello
+... world
+... I\'m huazai''')
+hello
+world
+I'm huazai
